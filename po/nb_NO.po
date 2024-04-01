@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-17 13:15+0100\n"
+"PO-Revision-Date: 2023-06-05 01:25\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian Bokmal\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-Project-ID: 49843\n"
+"X-Crowdin-Language: nb\n"
+"X-Crowdin-File: /plugins/dashboard_pi/po/dashboard_pi.pot\n"
+"X-Crowdin-File-ID: 111\n"
+#
+#, fuzzy, c-format
+msgid " Max %.1f since %02d:%02d  Overall Max %.1f Min %.1f "
+msgstr "Maks %.1f %s siden %02d:%02d Sammenlagt %.1f %s"
+#
+msgid " mag"
+msgstr " mag"
+#
+msgid " true"
+msgstr " sann"
+#
+msgid "-"
+msgstr "-"
+#
+#, c-format
+msgid "--- %s"
+msgstr ""
+#
+msgid "24 volt DC"
+msgstr ""
+#
+msgid "Add"
+msgstr "Legg til"
+#
+msgid "Add instrument"
+msgstr "Legg til instrument"
+#
+msgid "Air Temp."
+msgstr "Luft temp."
+#
+msgid "Altitude"
+msgstr "Høyde"
+#
+msgid "Altitude Trace"
+msgstr "Høydespor"
+#
+msgid "App & True Wind Angle"
+msgstr "Tils. & sann vindvinkel"
+#
+msgid "App. Wind Angle"
+msgstr "Tils. Vindvinkel"
+#
+msgid "App. Wind Angle & Speed"
+msgstr "Tils. vind vinkel & fart"
+#
+msgid "App. Wind Speed"
+msgstr "Tils. Vindhastighet"
+#
+msgid "Appearance"
+msgstr "Utseende"
+#
+msgid "Arrow 1 Colour :"
+msgstr ""
+#
+msgid "Arrow 2 Colour :"
+msgstr ""
+#
+msgid "Bar"
+msgstr ""
+#
+msgid "Barometric history"
+msgstr "Barometer histogram"
+#
+msgid "Barometric pressure"
+msgstr "Lufttrykk"
+#
+msgid "Black Waste"
+msgstr ""
+#
+msgid "Boat speed units:"
+msgstr "Båtens fartenheter:"
+#
+msgid "COG"
+msgstr "COG"
+#
+msgid "COG Damping Factor:"
+msgstr "COG dempefaktor:"
+#
+msgid "Caption:"
+msgstr "Overskrift:"
+#
+msgid "Celsius"
+msgstr "Celcius"
+#
+msgid "Centimeters"
+msgstr "Centimeter"
+#
+msgid "Choose font"
+msgstr "Velg skrifttype"
+#
+msgid "Close Window"
+msgstr ""
+#
+msgid "Cursor"
+msgstr "Kursor"
+#
+msgid "Dashboard"
+msgstr "Instrumentpanel"
+#
+msgid "Dashboard PlugIn for OpenCPN"
+msgstr "Instrumentutvidelse for OpenCPN"
+#
+msgid ""
+"Dashboard PlugIn for OpenCPN\n"
+"Provides navigation instrument display from NMEA source."
+msgstr ""
+"Instrument utvidelse for OpenCPN\n"
+"Tilfører navigasjons instrument visning fra NMEA kilder."
+#
+msgid "Dashboard preferences"
+msgstr "Dashbord alternativer"
+#
+msgid "Data:"
+msgstr "Data:"
+#
+msgid "Databackgroundcolor:"
+msgstr ""
+#
+msgid "Delete"
+msgstr "Slett"
+#
+msgid "Depth"
+msgstr "Dybde"
+#
+#, c-format
+msgid "Depth Offset (%s):"
+msgstr "Dybde forskyvning (%s):"
+#
+msgid "Depth units:"
+msgstr "Dybde enheter:"
+#
+msgid "Distance units:"
+msgstr "Distanseenheter:"
+#
+msgid "Dock Window"
+msgstr ""
+#
+msgid "Down"
+msgstr "Ned"
+#
+msgid "Dual Engine Vessel"
+msgstr ""
+#
+msgid "E"
+msgstr "Ø"
+#
+msgid "ENE"
+msgstr "ØNØ"
+#
+msgid "ESE"
+msgstr "ØSØ"
+#
+msgid "Edit"
+msgstr ""
+#
+msgid "Enable 24 volt range for voltmeter. Unchecked defaults to 12 volt:"
+msgstr ""
+#
+msgid "Engine Alternator Voltage"
+msgstr ""
+#
+msgid "Engine Exhaust Temperature"
+msgstr ""
+#
+msgid "Engine Maximum RPM:"
+msgstr ""
+#
+msgid "Engine Oil Pressure"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Pressure units:"
+msgstr "Fartsenheter for vind:"
+#
+msgid "Engine RPM"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Temperature units:"
+msgstr "Temperaturenheter"
+#
+msgid "Engine Water Temperature"
+msgstr ""
+#
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+#
+msgid "Fathoms"
+msgstr "Favner"
+#
+msgid "Feet"
+msgstr "Fot"
+#
+msgid "Fonts"
+msgstr "Skrift"
+#
+msgid ""
+"For dual engines, instance 0 is the port engine\n"
+"and instance 1 is the starboard engine.\n"
+"For single engines, instance 0 is the main engine."
+msgstr ""
+#
+msgid "From Ownship"
+msgstr "Fra eget skip"
+#
+msgid "Fuel 1"
+msgstr ""
+#
+msgid "Fuel 2"
+msgstr ""
+#
+msgid "GNSS Clock"
+msgstr "GNSS Klokke"
+#
+msgid "GNSS Compass"
+msgstr "GNSS kompass"
+#
+msgid "GNSS Status"
+msgstr "GNSS Status"
+#
+msgid "GNSS in use"
+msgstr "GNSS i bruk"
+#
+msgid "Grey Waste"
+msgstr ""
+#
+msgid "Heel"
+msgstr "Helling"
+#
+msgid "Honor OpenCPN settings"
+msgstr "OpenCPN ære innstillinger"
+#
+msgid "Horizontal"
+msgstr "Horisontal"
+#
+msgid "House Battery Current"
+msgstr ""
+#
+msgid "House Battery Voltage"
+msgstr ""
+#
+msgid "Humidity"
+msgstr ""
+#
+msgid "Inches"
+msgstr "Tommer"
+#
+msgid "Instruments"
+msgstr "Instrumenter"
+#
+msgid "Kelvin"
+msgstr "Kelvin"
+#
+msgid "Kilometers"
+msgstr "Kilometer"
+#
+msgid "Kts"
+msgstr "Knop"
+#
+msgid "Label:"
+msgstr "Etikett:"
+#
+msgid "Live Well"
+msgstr ""
+#
+msgid "Local CPU Clock"
+msgstr "Lokal CPU klokke"
+#
+msgid "Local GNSS Clock"
+msgstr "Lokal GNSS klokke"
+#
+msgid "Local Sunrise/Sunset"
+msgstr "Lokal sol opp/ned"
+#
+msgid "Local Time Offset From UTC:"
+msgstr "Lokal tidsforskyvning fra UTC:"
+#
+msgid "Mag COG"
+msgstr "Mag COG"
+#
+msgid "Mag HDG"
+msgstr "Mag. HDG"
+#
+#, c-format
+msgid "Max %.1f %s since %02d:%02d  Overall %.1f %s"
+msgstr "Maks %.1f %s siden %02d:%02d Sammenlagt %.1f %s"
+#
+msgid "Meters"
+msgstr "Meter"
+#
+msgid "Moon phase"
+msgstr "Månefase"
+#
+msgid "N"
+msgstr "N"
+#
+msgid "NE"
+msgstr "NØ"
+#
+msgid "NNE"
+msgstr "NNØ"
+#
+msgid "NNW"
+msgstr "NNV"
+#
+msgid "NW"
+msgstr "NW"
+#
+msgid "Nautical miles"
+msgstr "Nautiske mil"
+#
+msgid "Oil"
+msgstr ""
+#
+msgid "Orientation:"
+msgstr "Retning:"
+#
+msgid "PSI"
+msgstr ""
+#
+msgid "Pitch"
+msgstr "Stamp"
+#
+msgid "Port Alternator Voltage"
+msgstr ""
+#
+msgid "Port Exhaust Temperature"
+msgstr ""
+#
+#, fuzzy
+msgid "Port Oil Pressure"
+msgstr "Lufttrykk"
+#
+#, fuzzy
+msgid "Port RPM"
+msgstr "B.Bord"
+#
+#, fuzzy
+msgid "Port Water Temperature"
+msgstr "Vanntemp."
+#
+#
+#, fuzzy
+msgid "Port-"
+msgstr "B.Bord"
+#
+msgid "Position"
+msgstr "Posisjon"
+#
+msgid "Preferences..."
+msgstr "Alternativer..."
+#
+msgid "Reset:"
+msgstr ""
+#
+msgid "Resize..."
+msgstr "Endre størrelse..."
+#
+msgid "Rudder Angle"
+msgstr "Rorvinkel"
+#
+msgid "S"
+msgstr "S"
+#
+msgid "SE"
+msgstr "SØ"
+#
+msgid "SOG"
+msgstr "SOG"
+#
+msgid "SSE"
+msgstr "SSØ"
+#
+msgid "SSW"
+msgstr "SSV"
+#
+msgid "STW"
+msgstr "STW"
+#
+msgid "STW and SOG"
+msgstr ""
+#
+msgid "SW"
+msgstr "SV"
+#
+msgid "Select instrument to add:"
+msgstr "Velg instrument:"
+#
+msgid "Set dashboard default fonts"
+msgstr ""
+#
+msgid "Set default"
+msgstr ""
+#
+msgid "Small:"
+msgstr "Liten:"
+#
+msgid "Speed Over Ground Damping Factor:"
+msgstr "Fart over grunn dempefaktor:"
+#
+msgid "Speedometer"
+msgstr "Logg"
+#
+msgid "Speedometer max value:"
+msgstr "Speedometer maks verdi:"
+#
+msgid "Start Battery Current"
+msgstr ""
+#
+msgid "Start Battery Voltage"
+msgstr ""
+#
+msgid "Statute miles"
+msgstr "Statute mil"
+#
+msgid "Stbd"
+msgstr "Stbd"
+#
+msgid "Stbd Alternator Voltage"
+msgstr ""
+#
+msgid "Stbd Exhaust Temperature"
+msgstr ""
+#
+msgid "Stbd Oil Pressure"
+msgstr ""
+#
+#, fuzzy
+msgid "Stbd RPM"
+msgstr "Stbd"
+#
+#, fuzzy
+msgid "Stbd Water Temperature"
+msgstr "Vanntemp."
+#
+msgid "Sum Log"
+msgstr "Sumlogg"
+#
+msgid "Sunrise/Sunset"
+msgstr "Sol opp/ned"
+#
+msgid "Temperature units:"
+msgstr "Temperaturenheter"
+#
+msgid "Title:"
+msgstr "Tittel:"
+#
+msgid "Titlebackgroundcolor:"
+msgstr ""
+#
+msgid "Trip Log"
+msgstr "Turlogg"
+#
+msgid "True Compass"
+msgstr "Sann kompass"
+#
+msgid "True HDG"
+msgstr "Sann HDG"
+#
+msgid "True Wind Angle"
+msgstr "Sann Vindvinkel"
+#
+msgid "True Wind Angle & Speed"
+msgstr "Sann Vindvinkel & fart"
+#
+msgid "True Wind Dir. & Speed"
+msgstr "Sann Vindretning & fart"
+#
+msgid "True Wind Direction"
+msgstr "Sann Vindretning"
+#
+msgid "True Wind Speed"
+msgstr "Sann Vindhastighet"
+#
+#, fuzzy
+msgid "Undock Window"
+msgstr "Løsne"
+#
+msgid "Units, Ranges, Formats"
+msgstr "Enheter, Avstander, Formater"
+#
+msgid "Up"
+msgstr "Opp"
+#
+msgid ""
+"Use N2K & SignalK true wind data over ground.\n"
+"(Instead of through water)"
+msgstr ""
+"Bruk N2K & SignalK sanne vinddata over grunn.\n"
+"(I stedet for gjennom vann)"
+#
+msgid "VMG"
+msgstr "VMG"
+#
+msgid "VMG Wind"
+msgstr ""
+#
+msgid "Vertical"
+msgstr "Vertikal"
+#
+msgid "W"
+msgstr "V"
+#
+msgid "WNW"
+msgstr "VNV"
+#
+msgid "WSW"
+msgstr "VSV"
+#
+#, fuzzy
+msgid "Water 1"
+msgstr "Vanntemp."
+#
+#, fuzzy
+msgid "Water 2"
+msgstr "Vanntemp."
+#
+#, fuzzy
+msgid "Water 3"
+msgstr "Vanntemp."
+#
+msgid "Water Temp."
+msgstr "Vanntemp."
+#
+msgid "Wind history"
+msgstr "Vind histogram"
+#
+msgid "Wind speed units:"
+msgstr "Fartsenheter for vind:"
+#
+msgid "km/h"
+msgstr "km/t"
+#
+msgid "m/s"
+msgstr "m/s"
+#
+msgid "mph"
+msgstr "mph"
+#
+msgid "show this dashboard"
+msgstr "vis dette instrumentpanel"
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Port "
+#~ msgstr "B.Bord"

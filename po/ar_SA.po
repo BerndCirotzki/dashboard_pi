@@ -1,0 +1,545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-17 13:15+0100\n"
+"PO-Revision-Date: 2023-02-24 14:31\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-Project-ID: 49843\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /plugins/dashboard_pi/po/dashboard_pi.pot\n"
+"X-Crowdin-File-ID: 111\n"
+#
+#, c-format
+msgid " Max %.1f since %02d:%02d  Overall Max %.1f Min %.1f "
+msgstr ""
+#
+msgid " mag"
+msgstr ""
+#
+msgid " true"
+msgstr ""
+#
+msgid "-"
+msgstr ""
+#
+#, c-format
+msgid "--- %s"
+msgstr ""
+#
+msgid "24 volt DC"
+msgstr ""
+#
+msgid "Add"
+msgstr "إضافة"
+#
+msgid "Add instrument"
+msgstr ""
+#
+msgid "Air Temp."
+msgstr ""
+#
+msgid "Altitude"
+msgstr ""
+#
+msgid "Altitude Trace"
+msgstr ""
+#
+msgid "App & True Wind Angle"
+msgstr ""
+#
+msgid "App. Wind Angle"
+msgstr "زاوية الرياح التقريبية"
+#
+msgid "App. Wind Angle & Speed"
+msgstr ""
+#
+msgid "App. Wind Speed"
+msgstr ""
+#
+msgid "Appearance"
+msgstr "المظهر"
+#
+msgid "Arrow 1 Colour :"
+msgstr ""
+#
+msgid "Arrow 2 Colour :"
+msgstr ""
+#
+msgid "Bar"
+msgstr ""
+#
+msgid "Barometric history"
+msgstr "تاريخ الضغط"
+#
+msgid "Barometric pressure"
+msgstr ""
+#
+msgid "Black Waste"
+msgstr ""
+#
+msgid "Boat speed units:"
+msgstr ""
+#
+msgid "COG"
+msgstr ""
+#
+msgid "COG Damping Factor:"
+msgstr ""
+#
+msgid "Caption:"
+msgstr ""
+#
+msgid "Celsius"
+msgstr ""
+#
+msgid "Centimeters"
+msgstr "سنتيمتر"
+#
+msgid "Choose font"
+msgstr ""
+#
+msgid "Close Window"
+msgstr ""
+#
+msgid "Cursor"
+msgstr "مؤشر"
+#
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+#
+msgid "Dashboard PlugIn for OpenCPN"
+msgstr ""
+#
+msgid ""
+"Dashboard PlugIn for OpenCPN\n"
+"Provides navigation instrument display from NMEA source."
+msgstr ""
+#
+msgid "Dashboard preferences"
+msgstr "اعدادات لوحة المعلومات"
+#
+msgid "Data:"
+msgstr "البيانات:"
+#
+msgid "Databackgroundcolor:"
+msgstr ""
+#
+msgid "Delete"
+msgstr "حذف"
+#
+msgid "Depth"
+msgstr ""
+#
+#, c-format
+msgid "Depth Offset (%s):"
+msgstr ""
+#
+msgid "Depth units:"
+msgstr ""
+#
+msgid "Distance units:"
+msgstr "وحدة المسافة:"
+#
+msgid "Dock Window"
+msgstr ""
+#
+msgid "Down"
+msgstr "أسفل"
+#
+msgid "Dual Engine Vessel"
+msgstr ""
+#
+msgid "E"
+msgstr ""
+#
+msgid "ENE"
+msgstr ""
+#
+msgid "ESE"
+msgstr ""
+#
+msgid "Edit"
+msgstr ""
+#
+msgid "Enable 24 volt range for voltmeter. Unchecked defaults to 12 volt:"
+msgstr ""
+#
+msgid "Engine Alternator Voltage"
+msgstr ""
+#
+msgid "Engine Exhaust Temperature"
+msgstr ""
+#
+msgid "Engine Maximum RPM:"
+msgstr ""
+#
+msgid "Engine Oil Pressure"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Pressure units:"
+msgstr "وحدة سرعة الرياح:"
+#
+msgid "Engine RPM"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Temperature units:"
+msgstr "وحدة سرعة الرياح:"
+#
+msgid "Engine Water Temperature"
+msgstr ""
+#
+msgid "Fahrenheit"
+msgstr ""
+#
+msgid "Fathoms"
+msgstr ""
+#
+msgid "Feet"
+msgstr "قدم"
+#
+msgid "Fonts"
+msgstr "الخطوط"
+#
+msgid ""
+"For dual engines, instance 0 is the port engine\n"
+"and instance 1 is the starboard engine.\n"
+"For single engines, instance 0 is the main engine."
+msgstr ""
+#
+msgid "From Ownship"
+msgstr ""
+#
+msgid "Fuel 1"
+msgstr ""
+#
+msgid "Fuel 2"
+msgstr ""
+#
+msgid "GNSS Clock"
+msgstr ""
+#
+msgid "GNSS Compass"
+msgstr ""
+#
+msgid "GNSS Status"
+msgstr ""
+#
+msgid "GNSS in use"
+msgstr ""
+#
+msgid "Grey Waste"
+msgstr ""
+#
+msgid "Heel"
+msgstr ""
+#
+msgid "Honor OpenCPN settings"
+msgstr ""
+#
+msgid "Horizontal"
+msgstr "أفقي"
+#
+msgid "House Battery Current"
+msgstr ""
+#
+msgid "House Battery Voltage"
+msgstr ""
+#
+msgid "Humidity"
+msgstr ""
+#
+msgid "Inches"
+msgstr "بوصة"
+#
+msgid "Instruments"
+msgstr "أدوات"
+#
+msgid "Kelvin"
+msgstr ""
+#
+msgid "Kilometers"
+msgstr "كيلومتر"
+#
+msgid "Kts"
+msgstr "عقدة"
+#
+msgid "Label:"
+msgstr "عنوان:"
+#
+msgid "Live Well"
+msgstr ""
+#
+msgid "Local CPU Clock"
+msgstr ""
+#
+msgid "Local GNSS Clock"
+msgstr ""
+#
+msgid "Local Sunrise/Sunset"
+msgstr ""
+#
+msgid "Local Time Offset From UTC:"
+msgstr ""
+#
+msgid "Mag COG"
+msgstr ""
+#
+msgid "Mag HDG"
+msgstr ""
+#
+#, c-format
+msgid "Max %.1f %s since %02d:%02d  Overall %.1f %s"
+msgstr ""
+#
+msgid "Meters"
+msgstr "متر"
+#
+msgid "Moon phase"
+msgstr "اوجه القمر"
+#
+msgid "N"
+msgstr "شمال"
+#
+msgid "NE"
+msgstr ""
+#
+msgid "NNE"
+msgstr ""
+#
+msgid "NNW"
+msgstr ""
+#
+msgid "NW"
+msgstr ""
+#
+msgid "Nautical miles"
+msgstr "ميل بحري"
+#
+msgid "Oil"
+msgstr ""
+#
+msgid "Orientation:"
+msgstr "التدوير:"
+#
+msgid "PSI"
+msgstr ""
+#
+msgid "Pitch"
+msgstr ""
+#
+msgid "Port Alternator Voltage"
+msgstr ""
+#
+msgid "Port Exhaust Temperature"
+msgstr ""
+#
+msgid "Port Oil Pressure"
+msgstr ""
+#
+msgid "Port RPM"
+msgstr ""
+#
+msgid "Port Water Temperature"
+msgstr ""
+#
+msgid "Port-"
+msgstr ""
+#
+msgid "Position"
+msgstr "الموقع"
+#
+msgid "Preferences..."
+msgstr "الخصائص"
+#
+msgid "Reset:"
+msgstr ""
+#
+msgid "Resize..."
+msgstr ""
+#
+msgid "Rudder Angle"
+msgstr ""
+#
+msgid "S"
+msgstr ""
+#
+msgid "SE"
+msgstr ""
+#
+msgid "SOG"
+msgstr ""
+#
+msgid "SSE"
+msgstr ""
+#
+msgid "SSW"
+msgstr ""
+#
+msgid "STW"
+msgstr ""
+#
+msgid "STW and SOG"
+msgstr ""
+#
+msgid "SW"
+msgstr ""
+#
+msgid "Select instrument to add:"
+msgstr ""
+#
+msgid "Set dashboard default fonts"
+msgstr ""
+#
+msgid "Set default"
+msgstr ""
+#
+msgid "Small:"
+msgstr ""
+#
+msgid "Speed Over Ground Damping Factor:"
+msgstr ""
+#
+msgid "Speedometer"
+msgstr "عداد السرعة"
+#
+msgid "Speedometer max value:"
+msgstr ""
+#
+msgid "Start Battery Current"
+msgstr ""
+#
+msgid "Start Battery Voltage"
+msgstr ""
+#
+msgid "Statute miles"
+msgstr ""
+#
+msgid "Stbd"
+msgstr ""
+#
+msgid "Stbd Alternator Voltage"
+msgstr ""
+#
+msgid "Stbd Exhaust Temperature"
+msgstr ""
+#
+msgid "Stbd Oil Pressure"
+msgstr ""
+#
+msgid "Stbd RPM"
+msgstr ""
+#
+msgid "Stbd Water Temperature"
+msgstr ""
+#
+msgid "Sum Log"
+msgstr ""
+#
+msgid "Sunrise/Sunset"
+msgstr "شروق الشمس/غروب الشمس"
+#
+msgid "Temperature units:"
+msgstr ""
+#
+msgid "Title:"
+msgstr "العنوان:"
+#
+msgid "Titlebackgroundcolor:"
+msgstr ""
+#
+msgid "Trip Log"
+msgstr "سجل الرحلة"
+#
+msgid "True Compass"
+msgstr ""
+#
+msgid "True HDG"
+msgstr ""
+#
+msgid "True Wind Angle"
+msgstr ""
+#
+msgid "True Wind Angle & Speed"
+msgstr ""
+#
+msgid "True Wind Dir. & Speed"
+msgstr "السرعة و الاتجاه الحقيقي للرياح"
+#
+msgid "True Wind Direction"
+msgstr ""
+#
+msgid "True Wind Speed"
+msgstr ""
+#
+msgid "Undock Window"
+msgstr ""
+#
+msgid "Units, Ranges, Formats"
+msgstr ""
+#
+msgid "Up"
+msgstr "أعلى"
+#
+msgid ""
+"Use N2K & SignalK true wind data over ground.\n"
+"(Instead of through water)"
+msgstr ""
+#
+msgid "VMG"
+msgstr ""
+#
+msgid "VMG Wind"
+msgstr ""
+#
+msgid "Vertical"
+msgstr "عمودي"
+#
+msgid "W"
+msgstr ""
+#
+msgid "WNW"
+msgstr ""
+#
+msgid "WSW"
+msgstr ""
+#
+msgid "Water 1"
+msgstr ""
+#
+msgid "Water 2"
+msgstr ""
+#
+msgid "Water 3"
+msgstr ""
+#
+msgid "Water Temp."
+msgstr ""
+#
+msgid "Wind history"
+msgstr "تاريخ الرياح"
+#
+msgid "Wind speed units:"
+msgstr "وحدة سرعة الرياح:"
+#
+msgid "km/h"
+msgstr "كم/ساعة"
+#
+msgid "m/s"
+msgstr "متر/ثانية"
+#
+msgid "mph"
+msgstr ""
+#
+msgid "show this dashboard"
+msgstr "عرض ضمن لوحة المعلومات"

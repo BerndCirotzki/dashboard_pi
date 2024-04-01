@@ -1,0 +1,33 @@
+colour dashboard Plugin for OpenCPN 
+-----------------------------------
+
+this Plugin is the original taken code from OpenCPN main code dashboard_pi and works in same way.
+the code has been expanded to create a separate design for each instrument.
+The following settings are now possible:
+- Global changing of the colors and sizes for the fonts.
+- additional button "Edit" to change the following for each instrument individually:
+  - Fonts
+  - Font sizes
+  - Font colors
+  - Background colors
+  - Arrow colors (if available.)
+  
+  Windows:
+  compile the code, create the installation package and install it to OpenCPN.
+  This will replace the dashbord_pi.dll file.
+  Build as normally:
+
+    cd ..
+    cd build
+    cmake ..
+    make
+    make install  
+  
+  (could not test with other OS, but I think, it will work as same.)
+  
+  or copy all files from "src" and "include" to opencpn/plugins/dashboard_pi/src
+  change in dashboard_pi.h :
+  #include "nmea0183.h" to
+  #include "nnmea0183/nmea0183.h"  
+  and compile OpenCPN.
+  

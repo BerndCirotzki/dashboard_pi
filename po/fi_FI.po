@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-17 13:15+0100\n"
+"PO-Revision-Date: 2023-06-05 01:25\n"
+"Last-Translator: \n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-Project-ID: 49843\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: /plugins/dashboard_pi/po/dashboard_pi.pot\n"
+"X-Crowdin-File-ID: 111\n"
+#
+#, fuzzy, c-format
+msgid " Max %.1f since %02d:%02d  Overall Max %.1f Min %.1f "
+msgstr "Max %.1f %s jälkeen %02d:%02d yhteensä %.1f %s"
+#
+msgid " mag"
+msgstr " magneettinen"
+#
+msgid " true"
+msgstr " tosi"
+#
+msgid "-"
+msgstr "-"
+#
+#, c-format
+msgid "--- %s"
+msgstr "--- %s"
+#
+msgid "24 volt DC"
+msgstr ""
+#
+msgid "Add"
+msgstr "Lisää"
+#
+msgid "Add instrument"
+msgstr "Lisää mittari"
+#
+msgid "Air Temp."
+msgstr "Ilman lämpötila"
+#
+msgid "Altitude"
+msgstr "Korkeus"
+#
+msgid "Altitude Trace"
+msgstr "Korkeuden Jäljitys"
+#
+msgid "App & True Wind Angle"
+msgstr "Suht. ja tosituulikulma"
+#
+msgid "App. Wind Angle"
+msgstr "Suht. tuulikulma"
+#
+msgid "App. Wind Angle & Speed"
+msgstr "Suht. tuulikulma ja tuulen nopeus"
+#
+msgid "App. Wind Speed"
+msgstr "Suht. tuulen nopeus"
+#
+msgid "Appearance"
+msgstr "Ulkonäkö"
+#
+msgid "Arrow 1 Colour :"
+msgstr ""
+#
+msgid "Arrow 2 Colour :"
+msgstr ""
+#
+msgid "Bar"
+msgstr ""
+#
+msgid "Barometric history"
+msgstr "Ilmanpaineen historia"
+#
+msgid "Barometric pressure"
+msgstr "Ilmanpaine"
+#
+msgid "Black Waste"
+msgstr ""
+#
+msgid "Boat speed units:"
+msgstr "Veneen nopeuden yksiköt:"
+#
+msgid "COG"
+msgstr "COG"
+#
+msgid "COG Damping Factor:"
+msgstr "COG vaimennuskerroin:"
+#
+msgid "Caption:"
+msgstr "Kuvateksti:"
+#
+msgid "Celsius"
+msgstr "Celsius"
+#
+msgid "Centimeters"
+msgstr "Senttimetriä"
+#
+msgid "Choose font"
+msgstr "Valitse fontti"
+#
+msgid "Close Window"
+msgstr ""
+#
+msgid "Cursor"
+msgstr "Kursori"
+#
+msgid "Dashboard"
+msgstr "Mittaritaulu"
+#
+msgid "Dashboard PlugIn for OpenCPN"
+msgstr "Mittaripaneeli OpenCPN:lle"
+#
+msgid ""
+"Dashboard PlugIn for OpenCPN\n"
+"Provides navigation instrument display from NMEA source."
+msgstr ""
+"Mittaritaulu OpenCPN:lle\n"
+"Näyttää mittarit NMEA-tuloille."
+#
+msgid "Dashboard preferences"
+msgstr "Mittaripaneelin asetukset"
+#
+msgid "Data:"
+msgstr "Tiedot:"
+#
+msgid "Databackgroundcolor:"
+msgstr ""
+#
+msgid "Delete"
+msgstr "&Poista"
+#
+msgid "Depth"
+msgstr "Syvyys"
+#
+#, c-format
+msgid "Depth Offset (%s):"
+msgstr "Syvyyden poikkeama (%s):"
+#
+msgid "Depth units:"
+msgstr "Syvyyden yksiköt:"
+#
+msgid "Distance units:"
+msgstr "Välimatkan yksiköt:"
+#
+msgid "Dock Window"
+msgstr ""
+#
+msgid "Down"
+msgstr "Alas"
+#
+msgid "Dual Engine Vessel"
+msgstr ""
+#
+msgid "E"
+msgstr "Itä"
+#
+msgid "ENE"
+msgstr "ENE"
+#
+msgid "ESE"
+msgstr "ESE"
+#
+msgid "Edit"
+msgstr ""
+#
+msgid "Enable 24 volt range for voltmeter. Unchecked defaults to 12 volt:"
+msgstr ""
+#
+msgid "Engine Alternator Voltage"
+msgstr ""
+#
+msgid "Engine Exhaust Temperature"
+msgstr ""
+#
+msgid "Engine Maximum RPM:"
+msgstr ""
+#
+msgid "Engine Oil Pressure"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Pressure units:"
+msgstr "Tuulen nopeuden yksiköt:"
+#
+msgid "Engine RPM"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Temperature units:"
+msgstr "Lämpötilayksikköt:"
+#
+msgid "Engine Water Temperature"
+msgstr ""
+#
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+#
+msgid "Fathoms"
+msgstr "Sylet"
+#
+msgid "Feet"
+msgstr "Jalat"
+#
+msgid "Fonts"
+msgstr "Kirjasimet"
+#
+msgid ""
+"For dual engines, instance 0 is the port engine\n"
+"and instance 1 is the starboard engine.\n"
+"For single engines, instance 0 is the main engine."
+msgstr ""
+#
+msgid "From Ownship"
+msgstr "Omasta aluksesta"
+#
+msgid "Fuel 1"
+msgstr ""
+#
+msgid "Fuel 2"
+msgstr ""
+#
+msgid "GNSS Clock"
+msgstr "GNSS-kello"
+#
+msgid "GNSS Compass"
+msgstr "GNSS kompassi"
+#
+msgid "GNSS Status"
+msgstr "GNSS tila"
+#
+msgid "GNSS in use"
+msgstr "GNSS on käytössä"
+#
+msgid "Grey Waste"
+msgstr ""
+#
+msgid "Heel"
+msgstr "Kallistus"
+#
+msgid "Honor OpenCPN settings"
+msgstr "OpenCPN pääasetukset"
+#
+msgid "Horizontal"
+msgstr "Vaakasuora"
+#
+msgid "House Battery Current"
+msgstr ""
+#
+msgid "House Battery Voltage"
+msgstr ""
+#
+msgid "Humidity"
+msgstr ""
+#
+msgid "Inches"
+msgstr "Tuumaa"
+#
+msgid "Instruments"
+msgstr "Mittarit"
+#
+msgid "Kelvin"
+msgstr "Kelvin"
+#
+msgid "Kilometers"
+msgstr "&kilometriä"
+#
+msgid "Kts"
+msgstr "kn"
+#
+msgid "Label:"
+msgstr "Otsikko:"
+#
+msgid "Live Well"
+msgstr ""
+#
+msgid "Local CPU Clock"
+msgstr "Paikallinen CPU kello"
+#
+msgid "Local GNSS Clock"
+msgstr "Paikallinen GNSS-kello"
+#
+msgid "Local Sunrise/Sunset"
+msgstr "Auringon nousu- ja laskuaika"
+#
+msgid "Local Time Offset From UTC:"
+msgstr "Paikallisen ajan ja UTC-ajan ero:"
+#
+msgid "Mag COG"
+msgstr "Magn COG"
+#
+msgid "Mag HDG"
+msgstr "Magneettinen HDG"
+#
+#, c-format
+msgid "Max %.1f %s since %02d:%02d  Overall %.1f %s"
+msgstr "Max %.1f %s jälkeen %02d:%02d yhteensä %.1f %s"
+#
+msgid "Meters"
+msgstr "Metrit"
+#
+msgid "Moon phase"
+msgstr "Kuun vaihe"
+#
+msgid "N"
+msgstr "N"
+#
+msgid "NE"
+msgstr "Koillinen"
+#
+msgid "NNE"
+msgstr "NNE"
+#
+msgid "NNW"
+msgstr "NNW"
+#
+msgid "NW"
+msgstr "Luode"
+#
+msgid "Nautical miles"
+msgstr "&meripeninkulmaa"
+#
+msgid "Oil"
+msgstr ""
+#
+msgid "Orientation:"
+msgstr "Näytön asento:"
+#
+msgid "PSI"
+msgstr ""
+#
+msgid "Pitch"
+msgstr "Nyökintä"
+#
+msgid "Port Alternator Voltage"
+msgstr ""
+#
+msgid "Port Exhaust Temperature"
+msgstr ""
+#
+#, fuzzy
+msgid "Port Oil Pressure"
+msgstr "Ilmanpaine"
+#
+#, fuzzy
+msgid "Port RPM"
+msgstr "Vasen"
+#
+#, fuzzy
+msgid "Port Water Temperature"
+msgstr "Veden lämpötila"
+#
+#
+#, fuzzy
+msgid "Port-"
+msgstr "Vasen"
+#
+msgid "Position"
+msgstr "Sijainti"
+#
+msgid "Preferences..."
+msgstr "Asetukset..."
+#
+msgid "Reset:"
+msgstr ""
+#
+msgid "Resize..."
+msgstr "Muuta kokoa..."
+#
+msgid "Rudder Angle"
+msgstr "Peräsinkulma"
+#
+msgid "S"
+msgstr "Etelä"
+#
+msgid "SE"
+msgstr "Kaakko"
+#
+msgid "SOG"
+msgstr "SOG"
+#
+msgid "SSE"
+msgstr "SSE"
+#
+msgid "SSW"
+msgstr "SSW"
+#
+msgid "STW"
+msgstr "STW"
+#
+msgid "STW and SOG"
+msgstr ""
+#
+msgid "SW"
+msgstr "Lounas"
+#
+msgid "Select instrument to add:"
+msgstr "Valitse lisättävä mittari:"
+#
+msgid "Set dashboard default fonts"
+msgstr ""
+#
+msgid "Set default"
+msgstr ""
+#
+msgid "Small:"
+msgstr "Pieni:"
+#
+msgid "Speed Over Ground Damping Factor:"
+msgstr "Nopeus pohjan suhteen vaimennuskerroin:"
+#
+msgid "Speedometer"
+msgstr "Nopeusmittari"
+#
+msgid "Speedometer max value:"
+msgstr "Nopeusmittarin maksimiarvo:"
+#
+msgid "Start Battery Current"
+msgstr ""
+#
+msgid "Start Battery Voltage"
+msgstr ""
+#
+msgid "Statute miles"
+msgstr "Maamailia"
+#
+msgid "Stbd"
+msgstr "Oikea"
+#
+msgid "Stbd Alternator Voltage"
+msgstr ""
+#
+msgid "Stbd Exhaust Temperature"
+msgstr ""
+#
+msgid "Stbd Oil Pressure"
+msgstr ""
+#
+#, fuzzy
+msgid "Stbd RPM"
+msgstr "Oikea"
+#
+#, fuzzy
+msgid "Stbd Water Temperature"
+msgstr "Veden lämpötila"
+#
+msgid "Sum Log"
+msgstr "Kokonaismatka"
+#
+msgid "Sunrise/Sunset"
+msgstr "Auringon nousu- ja laskuaika, UTC"
+#
+msgid "Temperature units:"
+msgstr "Lämpötilayksikköt:"
+#
+msgid "Title:"
+msgstr "Otsikko:"
+#
+msgid "Titlebackgroundcolor:"
+msgstr ""
+#
+msgid "Trip Log"
+msgstr "Osamatka"
+#
+msgid "True Compass"
+msgstr "Kompassi"
+#
+msgid "True HDG"
+msgstr "Tosi HDG"
+#
+msgid "True Wind Angle"
+msgstr "Tosituulikulma"
+#
+msgid "True Wind Angle & Speed"
+msgstr "Tosituulikulma ja -tuulen nopeus"
+#
+msgid "True Wind Dir. & Speed"
+msgstr "Tosituulen suunta ja nopeus"
+#
+msgid "True Wind Direction"
+msgstr "Tosituulen suunta"
+#
+msgid "True Wind Speed"
+msgstr "Tosituulen nopeus"
+#
+#, fuzzy
+msgid "Undock Window"
+msgstr "Irrota"
+#
+msgid "Units, Ranges, Formats"
+msgstr "Yksiköt, alueet, formaatit"
+#
+msgid "Up"
+msgstr "Ylös"
+#
+msgid ""
+"Use N2K & SignalK true wind data over ground.\n"
+"(Instead of through water)"
+msgstr ""
+"Käytä N2K & SignalK tosi tuulen tietoja pohjan suhteen.\n"
+"(veden sijasta )"
+#
+msgid "VMG"
+msgstr "VMG"
+#
+msgid "VMG Wind"
+msgstr ""
+#
+msgid "Vertical"
+msgstr "Pystysuora"
+#
+msgid "W"
+msgstr "Länsi"
+#
+msgid "WNW"
+msgstr "WNW"
+#
+msgid "WSW"
+msgstr "WSW"
+#
+#, fuzzy
+msgid "Water 1"
+msgstr "Veden lämpötila"
+#
+#, fuzzy
+msgid "Water 2"
+msgstr "Veden lämpötila"
+#
+#, fuzzy
+msgid "Water 3"
+msgstr "Veden lämpötila"
+#
+msgid "Water Temp."
+msgstr "Veden lämpötila"
+#
+msgid "Wind history"
+msgstr "Tuulihistoria"
+#
+msgid "Wind speed units:"
+msgstr "Tuulen nopeuden yksiköt:"
+#
+msgid "km/h"
+msgstr "km/h"
+#
+msgid "m/s"
+msgstr "m/s"
+#
+msgid "mph"
+msgstr "mph"
+#
+msgid "show this dashboard"
+msgstr "Näytä tämä mittaritaulu"
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Port "
+#~ msgstr "Vasen"

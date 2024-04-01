@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-17 13:15+0100\n"
+"PO-Revision-Date: 2023-06-08 02:36\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && "
+"n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && "
+"n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-Project-ID: 49843\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /plugins/dashboard_pi/po/dashboard_pi.pot\n"
+"X-Crowdin-File-ID: 111\n"
+#
+#, fuzzy, c-format
+msgid " Max %.1f since %02d:%02d  Overall Max %.1f Min %.1f "
+msgstr "Макс %.1f %s с %02d:%02d общая %.1f %s"
+#
+msgid " mag"
+msgstr " "
+#
+msgid " true"
+msgstr " ист."
+#
+msgid "-"
+msgstr "-"
+#
+#, c-format
+msgid "--- %s"
+msgstr ""
+#
+msgid "24 volt DC"
+msgstr ""
+#
+msgid "Add"
+msgstr "Добавить"
+#
+msgid "Add instrument"
+msgstr "Добавить инструмент"
+#
+msgid "Air Temp."
+msgstr "Температура воздуха"
+#
+msgid "Altitude"
+msgstr "Высота"
+#
+msgid "Altitude Trace"
+msgstr "Диапазон высот"
+#
+msgid "App & True Wind Angle"
+msgstr "Вымп. и Ист. угол ветра"
+#
+msgid "App. Wind Angle"
+msgstr "Вымп. угол ветра"
+#
+msgid "App. Wind Angle & Speed"
+msgstr "Вымп. угол и скор. ветра"
+#
+msgid "App. Wind Speed"
+msgstr "Вымп. скорость ветра"
+#
+msgid "Appearance"
+msgstr "Внешний вид"
+#
+msgid "Arrow 1 Colour :"
+msgstr ""
+#
+msgid "Arrow 2 Colour :"
+msgstr ""
+#
+msgid "Bar"
+msgstr ""
+#
+msgid "Barometric history"
+msgstr "История давления"
+#
+msgid "Barometric pressure"
+msgstr "Атмосферное давление"
+#
+msgid "Black Waste"
+msgstr ""
+#
+msgid "Boat speed units:"
+msgstr "Единицы скорости судна:"
+#
+msgid "COG"
+msgstr "Ист. Путь (COG)"
+#
+msgid "COG Damping Factor:"
+msgstr "Коэффициент затухания COG:"
+#
+msgid "Caption:"
+msgstr "Название:"
+#
+msgid "Celsius"
+msgstr "Цельсий"
+#
+msgid "Centimeters"
+msgstr "см"
+#
+msgid "Choose font"
+msgstr "Выбор шрифта"
+#
+msgid "Close Window"
+msgstr ""
+#
+msgid "Cursor"
+msgstr "Координаты курсора"
+#
+msgid "Dashboard"
+msgstr "Приборная панель"
+#
+msgid "Dashboard PlugIn for OpenCPN"
+msgstr "Модуль «Приборная панель» для OpenCPN"
+#
+msgid ""
+"Dashboard PlugIn for OpenCPN\n"
+"Provides navigation instrument display from NMEA source."
+msgstr ""
+"Модуль «Приборная панель» для OpenCPN\n"
+"Отображает показания навигационных инструментов NMEA."
+#
+msgid "Dashboard preferences"
+msgstr "Настройки приборной панели"
+#
+msgid "Data:"
+msgstr "Данные:"
+#
+msgid "Databackgroundcolor:"
+msgstr ""
+#
+msgid "Delete"
+msgstr "Удалить"
+#
+msgid "Depth"
+msgstr "Глубина"
+#
+#, c-format
+msgid "Depth Offset (%s):"
+msgstr "Поправка Глубины (%s):"
+#
+msgid "Depth units:"
+msgstr "Единицы глубины:"
+#
+msgid "Distance units:"
+msgstr "Единицы расстояния:"
+#
+msgid "Dock Window"
+msgstr ""
+#
+msgid "Down"
+msgstr "Вниз"
+#
+msgid "Dual Engine Vessel"
+msgstr ""
+#
+msgid "E"
+msgstr "В"
+#
+msgid "ENE"
+msgstr "ВСВ"
+#
+msgid "ESE"
+msgstr "ВЮВ"
+#
+msgid "Edit"
+msgstr ""
+#
+msgid "Enable 24 volt range for voltmeter. Unchecked defaults to 12 volt:"
+msgstr ""
+#
+msgid "Engine Alternator Voltage"
+msgstr ""
+#
+msgid "Engine Exhaust Temperature"
+msgstr ""
+#
+msgid "Engine Maximum RPM:"
+msgstr ""
+#
+msgid "Engine Oil Pressure"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Pressure units:"
+msgstr "Единицы скорости ветра:"
+#
+msgid "Engine RPM"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Temperature units:"
+msgstr "Единицы температуры:"
+#
+msgid "Engine Water Temperature"
+msgstr ""
+#
+msgid "Fahrenheit"
+msgstr "Фаренгейт"
+#
+msgid "Fathoms"
+msgstr "саж."
+#
+msgid "Feet"
+msgstr "фут"
+#
+msgid "Fonts"
+msgstr "Шрифты"
+#
+msgid ""
+"For dual engines, instance 0 is the port engine\n"
+"and instance 1 is the starboard engine.\n"
+"For single engines, instance 0 is the main engine."
+msgstr ""
+#
+msgid "From Ownship"
+msgstr "Пеленг и Дистанция"
+#
+msgid "Fuel 1"
+msgstr ""
+#
+msgid "Fuel 2"
+msgstr ""
+#
+msgid "GNSS Clock"
+msgstr "Часы ГНСС"
+#
+msgid "GNSS Compass"
+msgstr "Компасс ГНСС"
+#
+msgid "GNSS Status"
+msgstr "Состояние ГНСС"
+#
+msgid "GNSS in use"
+msgstr "Видимых спутников"
+#
+msgid "Grey Waste"
+msgstr ""
+#
+msgid "Heel"
+msgstr "Крен"
+#
+msgid "Honor OpenCPN settings"
+msgstr "из OpenCPN"
+#
+msgid "Horizontal"
+msgstr "Горизонтально"
+#
+msgid "House Battery Current"
+msgstr ""
+#
+msgid "House Battery Voltage"
+msgstr ""
+#
+msgid "Humidity"
+msgstr ""
+#
+msgid "Inches"
+msgstr "дюйм"
+#
+msgid "Instruments"
+msgstr "Инструменты"
+#
+msgid "Kelvin"
+msgstr "Кельвин"
+#
+msgid "Kilometers"
+msgstr "км"
+#
+msgid "Kts"
+msgstr "уз."
+#
+msgid "Label:"
+msgstr "Подпись:"
+#
+msgid "Live Well"
+msgstr ""
+#
+msgid "Local CPU Clock"
+msgstr "Часы (Местное)"
+#
+msgid "Local GNSS Clock"
+msgstr "Часы (Местное)"
+#
+msgid "Local Sunrise/Sunset"
+msgstr "Восход - Закат (Местное)"
+#
+msgid "Local Time Offset From UTC:"
+msgstr "Смещение Локального Времени от UTC:"
+#
+msgid "Mag COG"
+msgstr "Маг. Путь (COG)"
+#
+msgid "Mag HDG"
+msgstr "Маг. Направление (HDM)"
+#
+#, c-format
+msgid "Max %.1f %s since %02d:%02d  Overall %.1f %s"
+msgstr "Макс %.1f %s с %02d:%02d общая %.1f %s"
+#
+msgid "Meters"
+msgstr "м"
+#
+msgid "Moon phase"
+msgstr "Фаза луны"
+#
+msgid "N"
+msgstr "С"
+#
+msgid "NE"
+msgstr "СВ"
+#
+msgid "NNE"
+msgstr "ССВ"
+#
+msgid "NNW"
+msgstr "ССЗ"
+#
+msgid "NW"
+msgstr "СЗ"
+#
+msgid "Nautical miles"
+msgstr "м. м."
+#
+msgid "Oil"
+msgstr ""
+#
+msgid "Orientation:"
+msgstr "Ориентация:"
+#
+msgid "PSI"
+msgstr ""
+#
+msgid "Pitch"
+msgstr "Дифферент"
+#
+msgid "Port Alternator Voltage"
+msgstr ""
+#
+msgid "Port Exhaust Temperature"
+msgstr ""
+#
+#, fuzzy
+msgid "Port Oil Pressure"
+msgstr "Атмосферное давление"
+#
+#, fuzzy
+msgid "Port RPM"
+msgstr "Лев. Борт"
+#
+#, fuzzy
+msgid "Port Water Temperature"
+msgstr "Температура воды"
+#
+#
+#, fuzzy
+msgid "Port-"
+msgstr "Лев. Борт"
+#
+msgid "Position"
+msgstr "Местоположение"
+#
+msgid "Preferences..."
+msgstr "Настройки..."
+#
+msgid "Reset:"
+msgstr ""
+#
+msgid "Resize..."
+msgstr "Изменение размера..."
+#
+msgid "Rudder Angle"
+msgstr "Угол перекладки руля"
+#
+msgid "S"
+msgstr "Ю"
+#
+msgid "SE"
+msgstr "ЮВ"
+#
+msgid "SOG"
+msgstr "Скорость (SOG)"
+#
+msgid "SSE"
+msgstr "ЮЮВ"
+#
+msgid "SSW"
+msgstr "ЮЮЗ"
+#
+msgid "STW"
+msgstr "Скорость (STW)"
+#
+msgid "STW and SOG"
+msgstr ""
+#
+msgid "SW"
+msgstr "ЮЗ"
+#
+msgid "Select instrument to add:"
+msgstr "Выберите инструмент для добавления:"
+#
+msgid "Set dashboard default fonts"
+msgstr ""
+#
+msgid "Set default"
+msgstr ""
+#
+msgid "Small:"
+msgstr "Мелкий текст:"
+#
+msgid "Speed Over Ground Damping Factor:"
+msgstr "Коэффициент затухания SOG:"
+#
+msgid "Speedometer"
+msgstr "Спидометр"
+#
+msgid "Speedometer max value:"
+msgstr "Предел спидометра:"
+#
+msgid "Start Battery Current"
+msgstr ""
+#
+msgid "Start Battery Voltage"
+msgstr ""
+#
+msgid "Statute miles"
+msgstr "с. м."
+#
+msgid "Stbd"
+msgstr "Прав. Борт"
+#
+msgid "Stbd Alternator Voltage"
+msgstr ""
+#
+msgid "Stbd Exhaust Temperature"
+msgstr ""
+#
+msgid "Stbd Oil Pressure"
+msgstr ""
+#
+#, fuzzy
+msgid "Stbd RPM"
+msgstr "Прав. Борт"
+#
+#, fuzzy
+msgid "Stbd Water Temperature"
+msgstr "Температура воды"
+#
+msgid "Sum Log"
+msgstr "Итоговый журнал"
+#
+msgid "Sunrise/Sunset"
+msgstr "Восход - Закат (UTC)"
+#
+msgid "Temperature units:"
+msgstr "Единицы температуры:"
+#
+msgid "Title:"
+msgstr "Заголовок:"
+#
+msgid "Titlebackgroundcolor:"
+msgstr ""
+#
+msgid "Trip Log"
+msgstr "Журнал плавания"
+#
+msgid "True Compass"
+msgstr "Ист. Компас"
+#
+msgid "True HDG"
+msgstr "Ист. Направление (HDT)"
+#
+msgid "True Wind Angle"
+msgstr "Ист. угол ветра"
+#
+msgid "True Wind Angle & Speed"
+msgstr "Ист. угол и скор. ветра"
+#
+msgid "True Wind Dir. & Speed"
+msgstr "Ист. направл. и скор. ветра"
+#
+msgid "True Wind Direction"
+msgstr "Ист. направл. ветра"
+#
+msgid "True Wind Speed"
+msgstr "Ист. скорость ветра"
+#
+#, fuzzy
+msgid "Undock Window"
+msgstr "Отстыковать"
+#
+msgid "Units, Ranges, Formats"
+msgstr "Единицы измерения, форматы"
+#
+msgid "Up"
+msgstr "Вверх"
+#
+msgid ""
+"Use N2K & SignalK true wind data over ground.\n"
+"(Instead of through water)"
+msgstr ""
+"Использовать данные истинного ветра N2K и SignalK относительно земли.\n"
+"(Вместо воды)"
+#
+msgid "VMG"
+msgstr "Эффект. скорость (VMG)"
+#
+msgid "VMG Wind"
+msgstr ""
+#
+msgid "Vertical"
+msgstr "Вертикально"
+#
+msgid "W"
+msgstr "З"
+#
+msgid "WNW"
+msgstr "ЗСЗ"
+#
+msgid "WSW"
+msgstr "ЗЮЗ"
+#
+#, fuzzy
+msgid "Water 1"
+msgstr "Температура воды"
+#
+#, fuzzy
+msgid "Water 2"
+msgstr "Температура воды"
+#
+#, fuzzy
+msgid "Water 3"
+msgstr "Температура воды"
+#
+msgid "Water Temp."
+msgstr "Температура воды"
+#
+msgid "Wind history"
+msgstr "История ветра"
+#
+msgid "Wind speed units:"
+msgstr "Единицы скорости ветра:"
+#
+msgid "km/h"
+msgstr "км/ч"
+#
+msgid "m/s"
+msgstr "м/с"
+#
+msgid "mph"
+msgstr "миль/ч"
+#
+msgid "show this dashboard"
+msgstr "Показать эту панель"
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Port "
+#~ msgstr "Лев. Борт"

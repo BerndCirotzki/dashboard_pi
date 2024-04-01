@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-17 13:15+0100\n"
+"PO-Revision-Date: 2023-02-24 14:31\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Traditional\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-Project-ID: 49843\n"
+"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-File: /plugins/dashboard_pi/po/dashboard_pi.pot\n"
+"X-Crowdin-File-ID: 111\n"
+#
+#, c-format
+msgid " Max %.1f since %02d:%02d  Overall Max %.1f Min %.1f "
+msgstr ""
+#
+msgid " mag"
+msgstr ""
+#
+msgid " true"
+msgstr ""
+#
+msgid "-"
+msgstr ""
+#
+#, c-format
+msgid "--- %s"
+msgstr ""
+#
+msgid "24 volt DC"
+msgstr ""
+#
+msgid "Add"
+msgstr ""
+#
+msgid "Add instrument"
+msgstr ""
+#
+msgid "Air Temp."
+msgstr "氣溫"
+#
+msgid "Altitude"
+msgstr ""
+#
+msgid "Altitude Trace"
+msgstr ""
+#
+msgid "App & True Wind Angle"
+msgstr ""
+#
+msgid "App. Wind Angle"
+msgstr ""
+#
+msgid "App. Wind Angle & Speed"
+msgstr ""
+#
+msgid "App. Wind Speed"
+msgstr ""
+#
+msgid "Appearance"
+msgstr ""
+#
+msgid "Arrow 1 Colour :"
+msgstr ""
+#
+msgid "Arrow 2 Colour :"
+msgstr ""
+#
+msgid "Bar"
+msgstr ""
+#
+msgid "Barometric history"
+msgstr ""
+#
+msgid "Barometric pressure"
+msgstr ""
+#
+msgid "Black Waste"
+msgstr ""
+#
+msgid "Boat speed units:"
+msgstr ""
+#
+msgid "COG"
+msgstr "越地航向"
+#
+msgid "COG Damping Factor:"
+msgstr ""
+#
+msgid "Caption:"
+msgstr ""
+#
+msgid "Celsius"
+msgstr ""
+#
+msgid "Centimeters"
+msgstr ""
+#
+msgid "Choose font"
+msgstr ""
+#
+msgid "Close Window"
+msgstr ""
+#
+msgid "Cursor"
+msgstr "游標"
+#
+msgid "Dashboard"
+msgstr "儀表板"
+#
+msgid "Dashboard PlugIn for OpenCPN"
+msgstr ""
+#
+msgid ""
+"Dashboard PlugIn for OpenCPN\n"
+"Provides navigation instrument display from NMEA source."
+msgstr ""
+#
+msgid "Dashboard preferences"
+msgstr ""
+#
+msgid "Data:"
+msgstr ""
+#
+msgid "Databackgroundcolor:"
+msgstr ""
+#
+msgid "Delete"
+msgstr ""
+#
+msgid "Depth"
+msgstr "水深"
+#
+#, c-format
+msgid "Depth Offset (%s):"
+msgstr ""
+#
+msgid "Depth units:"
+msgstr ""
+#
+msgid "Distance units:"
+msgstr ""
+#
+msgid "Dock Window"
+msgstr ""
+#
+msgid "Down"
+msgstr ""
+#
+msgid "Dual Engine Vessel"
+msgstr ""
+#
+msgid "E"
+msgstr ""
+#
+msgid "ENE"
+msgstr ""
+#
+msgid "ESE"
+msgstr ""
+#
+msgid "Edit"
+msgstr ""
+#
+msgid "Enable 24 volt range for voltmeter. Unchecked defaults to 12 volt:"
+msgstr ""
+#
+msgid "Engine Alternator Voltage"
+msgstr ""
+#
+msgid "Engine Exhaust Temperature"
+msgstr ""
+#
+msgid "Engine Maximum RPM:"
+msgstr ""
+#
+msgid "Engine Oil Pressure"
+msgstr ""
+#
+msgid "Engine Pressure units:"
+msgstr ""
+#
+msgid "Engine RPM"
+msgstr ""
+#
+msgid "Engine Temperature units:"
+msgstr ""
+#
+msgid "Engine Water Temperature"
+msgstr ""
+#
+msgid "Fahrenheit"
+msgstr ""
+#
+msgid "Fathoms"
+msgstr ""
+#
+msgid "Feet"
+msgstr ""
+#
+msgid "Fonts"
+msgstr ""
+#
+msgid ""
+"For dual engines, instance 0 is the port engine\n"
+"and instance 1 is the starboard engine.\n"
+"For single engines, instance 0 is the main engine."
+msgstr ""
+#
+msgid "From Ownship"
+msgstr ""
+#
+msgid "Fuel 1"
+msgstr ""
+#
+msgid "Fuel 2"
+msgstr ""
+#
+msgid "GNSS Clock"
+msgstr ""
+#
+msgid "GNSS Compass"
+msgstr ""
+#
+msgid "GNSS Status"
+msgstr ""
+#
+msgid "GNSS in use"
+msgstr ""
+#
+msgid "Grey Waste"
+msgstr ""
+#
+msgid "Heel"
+msgstr ""
+#
+msgid "Honor OpenCPN settings"
+msgstr ""
+#
+msgid "Horizontal"
+msgstr ""
+#
+msgid "House Battery Current"
+msgstr ""
+#
+msgid "House Battery Voltage"
+msgstr ""
+#
+msgid "Humidity"
+msgstr ""
+#
+msgid "Inches"
+msgstr ""
+#
+msgid "Instruments"
+msgstr ""
+#
+msgid "Kelvin"
+msgstr ""
+#
+msgid "Kilometers"
+msgstr ""
+#
+msgid "Kts"
+msgstr ""
+#
+msgid "Label:"
+msgstr ""
+#
+msgid "Live Well"
+msgstr ""
+#
+msgid "Local CPU Clock"
+msgstr ""
+#
+msgid "Local GNSS Clock"
+msgstr ""
+#
+msgid "Local Sunrise/Sunset"
+msgstr ""
+#
+msgid "Local Time Offset From UTC:"
+msgstr ""
+#
+msgid "Mag COG"
+msgstr ""
+#
+msgid "Mag HDG"
+msgstr ""
+#
+#, c-format
+msgid "Max %.1f %s since %02d:%02d  Overall %.1f %s"
+msgstr ""
+#
+msgid "Meters"
+msgstr ""
+#
+msgid "Moon phase"
+msgstr ""
+#
+msgid "N"
+msgstr "北"
+#
+msgid "NE"
+msgstr ""
+#
+msgid "NNE"
+msgstr ""
+#
+msgid "NNW"
+msgstr ""
+#
+msgid "NW"
+msgstr ""
+#
+msgid "Nautical miles"
+msgstr ""
+#
+msgid "Oil"
+msgstr ""
+#
+msgid "Orientation:"
+msgstr ""
+#
+msgid "PSI"
+msgstr ""
+#
+msgid "Pitch"
+msgstr ""
+#
+msgid "Port Alternator Voltage"
+msgstr ""
+#
+msgid "Port Exhaust Temperature"
+msgstr ""
+#
+msgid "Port Oil Pressure"
+msgstr ""
+#
+msgid "Port RPM"
+msgstr ""
+#
+msgid "Port Water Temperature"
+msgstr ""
+#
+msgid "Port-"
+msgstr ""
+#
+msgid "Position"
+msgstr "位置"
+#
+msgid "Preferences..."
+msgstr ""
+#
+msgid "Reset:"
+msgstr ""
+#
+msgid "Resize..."
+msgstr ""
+#
+msgid "Rudder Angle"
+msgstr ""
+#
+msgid "S"
+msgstr ""
+#
+msgid "SE"
+msgstr ""
+#
+msgid "SOG"
+msgstr "對地速度"
+#
+msgid "SSE"
+msgstr ""
+#
+msgid "SSW"
+msgstr ""
+#
+msgid "STW"
+msgstr ""
+#
+msgid "STW and SOG"
+msgstr ""
+#
+msgid "SW"
+msgstr ""
+#
+msgid "Select instrument to add:"
+msgstr ""
+#
+msgid "Set dashboard default fonts"
+msgstr ""
+#
+msgid "Set default"
+msgstr ""
+#
+msgid "Small:"
+msgstr ""
+#
+msgid "Speed Over Ground Damping Factor:"
+msgstr ""
+#
+msgid "Speedometer"
+msgstr "速度計"
+#
+msgid "Speedometer max value:"
+msgstr ""
+#
+msgid "Start Battery Current"
+msgstr ""
+#
+msgid "Start Battery Voltage"
+msgstr ""
+#
+msgid "Statute miles"
+msgstr ""
+#
+msgid "Stbd"
+msgstr ""
+#
+msgid "Stbd Alternator Voltage"
+msgstr ""
+#
+msgid "Stbd Exhaust Temperature"
+msgstr ""
+#
+msgid "Stbd Oil Pressure"
+msgstr ""
+#
+msgid "Stbd RPM"
+msgstr ""
+#
+msgid "Stbd Water Temperature"
+msgstr ""
+#
+msgid "Sum Log"
+msgstr ""
+#
+msgid "Sunrise/Sunset"
+msgstr "日出/日落"
+#
+msgid "Temperature units:"
+msgstr ""
+#
+msgid "Title:"
+msgstr ""
+#
+msgid "Titlebackgroundcolor:"
+msgstr ""
+#
+msgid "Trip Log"
+msgstr "旅程紀錄"
+#
+msgid "True Compass"
+msgstr ""
+#
+msgid "True HDG"
+msgstr ""
+#
+msgid "True Wind Angle"
+msgstr ""
+#
+msgid "True Wind Angle & Speed"
+msgstr ""
+#
+msgid "True Wind Dir. & Speed"
+msgstr ""
+#
+msgid "True Wind Direction"
+msgstr ""
+#
+msgid "True Wind Speed"
+msgstr ""
+#
+msgid "Undock Window"
+msgstr ""
+#
+msgid "Units, Ranges, Formats"
+msgstr ""
+#
+msgid "Up"
+msgstr ""
+#
+msgid ""
+"Use N2K & SignalK true wind data over ground.\n"
+"(Instead of through water)"
+msgstr ""
+#
+msgid "VMG"
+msgstr "有效航速"
+#
+msgid "VMG Wind"
+msgstr ""
+#
+msgid "Vertical"
+msgstr ""
+#
+msgid "W"
+msgstr ""
+#
+msgid "WNW"
+msgstr ""
+#
+msgid "WSW"
+msgstr ""
+#
+msgid "Water 1"
+msgstr ""
+#
+msgid "Water 2"
+msgstr ""
+#
+msgid "Water 3"
+msgstr ""
+#
+msgid "Water Temp."
+msgstr ""
+#
+msgid "Wind history"
+msgstr ""
+#
+msgid "Wind speed units:"
+msgstr ""
+#
+msgid "km/h"
+msgstr ""
+#
+msgid "m/s"
+msgstr ""
+#
+msgid "mph"
+msgstr ""
+#
+msgid "show this dashboard"
+msgstr ""

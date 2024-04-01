@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-17 13:15+0100\n"
+"PO-Revision-Date: 2023-04-05 00:42\n"
+"Last-Translator: \n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-Project-ID: 49843\n"
+"X-Crowdin-Language: hu\n"
+"X-Crowdin-File: /plugins/dashboard_pi/po/dashboard_pi.pot\n"
+"X-Crowdin-File-ID: 111\n"
+#
+#, fuzzy, c-format
+msgid " Max %.1f since %02d:%02d  Overall Max %.1f Min %.1f "
+msgstr "Max %.1f %s %02d:%02d óta. Összesen %.1f %s"
+#
+msgid " mag"
+msgstr " mágneses"
+#
+msgid " true"
+msgstr " valós"
+#
+msgid "-"
+msgstr ""
+#
+#, c-format
+msgid "--- %s"
+msgstr ""
+#
+msgid "24 volt DC"
+msgstr ""
+#
+msgid "Add"
+msgstr "Hozzáad"
+#
+msgid "Add instrument"
+msgstr "Műszer hozzáadása"
+#
+msgid "Air Temp."
+msgstr "Levegő hőmérséklet"
+#
+msgid "Altitude"
+msgstr ""
+#
+msgid "Altitude Trace"
+msgstr ""
+#
+msgid "App & True Wind Angle"
+msgstr "Valós szél irány"
+#
+msgid "App. Wind Angle"
+msgstr "Látszólagos szél irány"
+#
+msgid "App. Wind Angle & Speed"
+msgstr "Látszólagos szél irány és sebesség"
+#
+msgid "App. Wind Speed"
+msgstr "Látszólagos szél sebesség"
+#
+msgid "Appearance"
+msgstr "Megjelenítés"
+#
+msgid "Arrow 1 Colour :"
+msgstr ""
+#
+msgid "Arrow 2 Colour :"
+msgstr ""
+#
+msgid "Bar"
+msgstr ""
+#
+msgid "Barometric history"
+msgstr "Korábbi légnymás"
+#
+msgid "Barometric pressure"
+msgstr "Légköri nyomás"
+#
+msgid "Black Waste"
+msgstr ""
+#
+msgid "Boat speed units:"
+msgstr "Hajó sebsség mértékegysége:"
+#
+msgid "COG"
+msgstr "COG"
+#
+msgid "COG Damping Factor:"
+msgstr "COG csillapítási tényező:"
+#
+msgid "Caption:"
+msgstr "Felirat:"
+#
+msgid "Celsius"
+msgstr "Celsius"
+#
+msgid "Centimeters"
+msgstr "Centiméter"
+#
+msgid "Choose font"
+msgstr "Betűtípus kiválasztása"
+#
+msgid "Close Window"
+msgstr ""
+#
+msgid "Cursor"
+msgstr "Kurzor"
+#
+msgid "Dashboard"
+msgstr "Műszerfal"
+#
+msgid "Dashboard PlugIn for OpenCPN"
+msgstr "OpenCPN műszerfal plugin"
+#
+msgid ""
+"Dashboard PlugIn for OpenCPN\n"
+"Provides navigation instrument display from NMEA source."
+msgstr ""
+"OpenCPN Műszerfal plugin\n"
+"NMEA forrásból navigációs adatokat jelenít meg."
+#
+msgid "Dashboard preferences"
+msgstr "Műszerfal beállítások"
+#
+msgid "Data:"
+msgstr "Adat:"
+#
+msgid "Databackgroundcolor:"
+msgstr ""
+#
+msgid "Delete"
+msgstr "Törlés"
+#
+msgid "Depth"
+msgstr "Mélység"
+#
+#, c-format
+msgid "Depth Offset (%s):"
+msgstr "Mélység eltolás (%s):"
+#
+msgid "Depth units:"
+msgstr "Mélység mértékegységek:"
+#
+msgid "Distance units:"
+msgstr "Távolság mértékegysége:"
+#
+msgid "Dock Window"
+msgstr ""
+#
+msgid "Down"
+msgstr "le"
+#
+msgid "Dual Engine Vessel"
+msgstr ""
+#
+msgid "E"
+msgstr "K"
+#
+msgid "ENE"
+msgstr "KÉK"
+#
+msgid "ESE"
+msgstr "KDK"
+#
+msgid "Edit"
+msgstr ""
+#
+msgid "Enable 24 volt range for voltmeter. Unchecked defaults to 12 volt:"
+msgstr ""
+#
+msgid "Engine Alternator Voltage"
+msgstr ""
+#
+msgid "Engine Exhaust Temperature"
+msgstr ""
+#
+msgid "Engine Maximum RPM:"
+msgstr ""
+#
+msgid "Engine Oil Pressure"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Pressure units:"
+msgstr "Szélsebesség mértékegysége:"
+#
+msgid "Engine RPM"
+msgstr ""
+#
+#, fuzzy
+msgid "Engine Temperature units:"
+msgstr "Hőmérséklet mértékegység:"
+#
+msgid "Engine Water Temperature"
+msgstr ""
+#
+msgid "Fahrenheit"
+msgstr "Farenheit"
+#
+msgid "Fathoms"
+msgstr "Öl"
+#
+msgid "Feet"
+msgstr "láb"
+#
+msgid "Fonts"
+msgstr "Betűtípusok"
+#
+msgid ""
+"For dual engines, instance 0 is the port engine\n"
+"and instance 1 is the starboard engine.\n"
+"For single engines, instance 0 is the main engine."
+msgstr ""
+#
+msgid "From Ownship"
+msgstr "Saját hajótól"
+#
+msgid "Fuel 1"
+msgstr ""
+#
+msgid "Fuel 2"
+msgstr ""
+#
+msgid "GNSS Clock"
+msgstr "GNSS idő"
+#
+msgid "GNSS Compass"
+msgstr "GNSS Kompassz"
+#
+msgid "GNSS Status"
+msgstr "GNSS státusz"
+#
+msgid "GNSS in use"
+msgstr "GNSS használatban"
+#
+msgid "Grey Waste"
+msgstr ""
+#
+msgid "Heel"
+msgstr "Dőlés"
+#
+msgid "Honor OpenCPN settings"
+msgstr "OpenCPN beállítások betartás"
+#
+msgid "Horizontal"
+msgstr "Vízszintes"
+#
+msgid "House Battery Current"
+msgstr ""
+#
+msgid "House Battery Voltage"
+msgstr ""
+#
+msgid "Humidity"
+msgstr ""
+#
+msgid "Inches"
+msgstr "hüvelyk"
+#
+msgid "Instruments"
+msgstr "Műszerek"
+#
+msgid "Kelvin"
+msgstr "Kelvin"
+#
+msgid "Kilometers"
+msgstr "kilóméter"
+#
+msgid "Kts"
+msgstr "csomó"
+#
+msgid "Label:"
+msgstr "Címke:"
+#
+msgid "Live Well"
+msgstr ""
+#
+msgid "Local CPU Clock"
+msgstr "Helyi CPU idő"
+#
+msgid "Local GNSS Clock"
+msgstr "Helyi GNSS idő"
+#
+msgid "Local Sunrise/Sunset"
+msgstr "Helyi napkelte / napnyugta"
+#
+msgid "Local Time Offset From UTC:"
+msgstr "Helyi idő eltérése UTC-től:"
+#
+msgid "Mag COG"
+msgstr "Mag COG"
+#
+msgid "Mag HDG"
+msgstr "Mag HDG"
+#
+#, c-format
+msgid "Max %.1f %s since %02d:%02d  Overall %.1f %s"
+msgstr "Max %.1f %s %02d:%02d óta. Összesen %.1f %s"
+#
+msgid "Meters"
+msgstr "Méter"
+#
+msgid "Moon phase"
+msgstr "holdfázis"
+#
+msgid "N"
+msgstr "É"
+#
+msgid "NE"
+msgstr "ÉK"
+#
+msgid "NNE"
+msgstr "ÉÉK"
+#
+msgid "NNW"
+msgstr "ÉÉNY"
+#
+msgid "NW"
+msgstr "ÉNY"
+#
+msgid "Nautical miles"
+msgstr "Tengeri mérföld"
+#
+msgid "Oil"
+msgstr ""
+#
+msgid "Orientation:"
+msgstr "Orientáció:"
+#
+msgid "PSI"
+msgstr ""
+#
+msgid "Pitch"
+msgstr "Bólintás"
+#
+msgid "Port Alternator Voltage"
+msgstr ""
+#
+msgid "Port Exhaust Temperature"
+msgstr ""
+#
+#, fuzzy
+msgid "Port Oil Pressure"
+msgstr "Légköri nyomás"
+#
+#, fuzzy
+msgid "Port RPM"
+msgstr "Backbord"
+#
+#, fuzzy
+msgid "Port Water Temperature"
+msgstr "Víz hőmérséklet"
+#
+#
+#, fuzzy
+msgid "Port-"
+msgstr "Backbord"
+#
+msgid "Position"
+msgstr "Pozíció"
+#
+msgid "Preferences..."
+msgstr "Beállítások..."
+#
+msgid "Reset:"
+msgstr ""
+#
+msgid "Resize..."
+msgstr "Átméretezés..."
+#
+msgid "Rudder Angle"
+msgstr "Kormánylapát szög"
+#
+msgid "S"
+msgstr "D"
+#
+msgid "SE"
+msgstr "DK"
+#
+msgid "SOG"
+msgstr "SOG"
+#
+msgid "SSE"
+msgstr "DDK"
+#
+msgid "SSW"
+msgstr "DDNY"
+#
+msgid "STW"
+msgstr "STW"
+#
+msgid "STW and SOG"
+msgstr ""
+#
+msgid "SW"
+msgstr "DNY"
+#
+msgid "Select instrument to add:"
+msgstr "Válaszd ki a hozzáadni kívánt műszert:"
+#
+msgid "Set dashboard default fonts"
+msgstr ""
+#
+msgid "Set default"
+msgstr ""
+#
+msgid "Small:"
+msgstr "Kicsi:"
+#
+msgid "Speed Over Ground Damping Factor:"
+msgstr "Földfelszíni sebesség (SOG) csillapítási érték:"
+#
+msgid "Speedometer"
+msgstr "Sebességmérő"
+#
+msgid "Speedometer max value:"
+msgstr "Sebességmérő max értéke:"
+#
+msgid "Start Battery Current"
+msgstr ""
+#
+msgid "Start Battery Voltage"
+msgstr ""
+#
+msgid "Statute miles"
+msgstr "Mérföld"
+#
+msgid "Stbd"
+msgstr "Steuerbord"
+#
+msgid "Stbd Alternator Voltage"
+msgstr ""
+#
+msgid "Stbd Exhaust Temperature"
+msgstr ""
+#
+msgid "Stbd Oil Pressure"
+msgstr ""
+#
+#, fuzzy
+msgid "Stbd RPM"
+msgstr "Steuerbord"
+#
+#, fuzzy
+msgid "Stbd Water Temperature"
+msgstr "Víz hőmérséklet"
+#
+msgid "Sum Log"
+msgstr "Öszesített távolság"
+#
+msgid "Sunrise/Sunset"
+msgstr "napkelte / napnyugta"
+#
+msgid "Temperature units:"
+msgstr "Hőmérséklet mértékegység:"
+#
+msgid "Title:"
+msgstr "Cím:"
+#
+msgid "Titlebackgroundcolor:"
+msgstr ""
+#
+msgid "Trip Log"
+msgstr "Út távolság"
+#
+msgid "True Compass"
+msgstr "Valós Kompassz"
+#
+msgid "True HDG"
+msgstr "True HDG"
+#
+msgid "True Wind Angle"
+msgstr "Valós szél irány"
+#
+msgid "True Wind Angle & Speed"
+msgstr "Valós szél irány és sebesség"
+#
+msgid "True Wind Dir. & Speed"
+msgstr "Valós szél irány és sebesség"
+#
+msgid "True Wind Direction"
+msgstr "Valós szél irány"
+#
+msgid "True Wind Speed"
+msgstr "Valós szél sebesség"
+#
+#, fuzzy
+msgid "Undock Window"
+msgstr "Rögzítés feloldása"
+#
+msgid "Units, Ranges, Formats"
+msgstr "Mértékegységek, értéktartományok, formátumok"
+#
+msgid "Up"
+msgstr "fel"
+#
+msgid ""
+"Use N2K & SignalK true wind data over ground.\n"
+"(Instead of through water)"
+msgstr ""
+#
+msgid "VMG"
+msgstr "VMG"
+#
+msgid "VMG Wind"
+msgstr ""
+#
+msgid "Vertical"
+msgstr "Függőleges"
+#
+msgid "W"
+msgstr "Ny"
+#
+msgid "WNW"
+msgstr "NYÉNY"
+#
+msgid "WSW"
+msgstr "NYDNY"
+#
+#, fuzzy
+msgid "Water 1"
+msgstr "Víz hőmérséklet"
+#
+#, fuzzy
+msgid "Water 2"
+msgstr "Víz hőmérséklet"
+#
+#, fuzzy
+msgid "Water 3"
+msgstr "Víz hőmérséklet"
+#
+msgid "Water Temp."
+msgstr "Víz hőmérséklet"
+#
+msgid "Wind history"
+msgstr "Szél előzmények"
+#
+msgid "Wind speed units:"
+msgstr "Szélsebesség mértékegysége:"
+#
+msgid "km/h"
+msgstr "km/h"
+#
+msgid "m/s"
+msgstr "m/s"
+#
+msgid "mph"
+msgstr "mph"
+#
+msgid "show this dashboard"
+msgstr "mutassa ezt a műszerfalat"
+#
+#
+#
+#
+#, fuzzy
+#~ msgid "Port "
+#~ msgstr "Backbord"
